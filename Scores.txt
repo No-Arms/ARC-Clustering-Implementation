@@ -1,0 +1,5 @@
+ARC Adjusted Rand Index Scores:
+-------------------------------
+Spiral: 0.186
+Aggregation: 0.6346
+Compound: 0.514
