@@ -6,12 +6,12 @@ Conor French, B00805700
 
 April 10, 2022
 
-
+Instructions to marker
 To run the code on timberlea, you need only type: 
 
 python3 ARC.py 
 
-while in the project folder and press enter. From there, the algorithm will run and the resulting scatter plots will be generated and a seperate window will open to display them. These plots will also save as "ArcEq2Plots.png" in the same folder as the python code.
+while in the project folder and press enter. From there, the algorithm will run and the resulting scatter plots will be generated and a seperate window will open to display them. These plots will also save as "ArcEq#Plots.png" in the same folder as the python code.
 
 A Scores.txt will be generated that contains the Adjusted Rand Index Scores for each of the clustered datasets.
 
